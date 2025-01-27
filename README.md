@@ -100,7 +100,7 @@
     </section>
 
     <footer>
-        <p>Contactez-nous : contact@example.com | 06 12 34 56 78</p>
+        <p>Contactez-nous : cayre.coaching@gmail.com | 07 69 39 59 02</p>
     </footer>
 </body>
 </html>
